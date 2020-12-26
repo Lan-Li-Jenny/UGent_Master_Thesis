@@ -1,0 +1,9 @@
+wget https://gist.githubusercontent.com/ZohebAbai/513218c3468130eacff6481f424e4e64/raw/b70776f341a148293ff277afa0d0302c8c38f7e2/gist_stopwords.txt
+
+gist_file = open("gist_stopwords.txt", "r")
+try:
+    content = gist_file.read()
+    stopwords = content.split(",")
+finally:
+    gist_file.close()
+
