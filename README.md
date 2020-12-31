@@ -9,6 +9,8 @@ This thesis presents an application where topic modelling (Machine Learning) is 
 
 <img src="img/Venn_diagram.png">
 
+###### Venn diagram representation of the MEI
+
 # Result
 The MEI is incredibly broad and topic modelling helped to describe it and uncover less obvious ideas that would likely not have come to surface in a traditional exploratory review. A total of 56 625 research articles were processed into various LDA topics. What has been discovered went beyond the stereotype perception of this interface that is slanted towards marketing strategies or how to execute strategies in an entrepreneurial setting. The M10 topic model is explored in detail but only represents the tip of the iceberg of what can be found by using this method. It infers meaningful context for 10 broad categories of topics, provides a coherently catalogued overview of the literature on each topic and shows shifting trends in research. Based on the conclusions of topic contextualization and trend analysis, this thesis explores hidden perspectives of this cross-domain interface, including the aspects of education, research methodologies, social activities, key impact elements, and more.
 
