@@ -9,7 +9,7 @@ This thesis presents an application where topic modelling (Machine Learning) is 
 
 <img src="img/Venn_diagram.png">
 
-                                                                      Venn diagram representation of the MEI
+                                         Venn diagram representation of the MEI
 
 
 
@@ -18,4 +18,4 @@ The MEI is incredibly broad and topic modelling helped to describe it and uncove
 
 <img src="img/Context_topics.png">
 
-                                                                                Contextualised MEI
+                                                Contextualised MEI
