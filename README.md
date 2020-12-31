@@ -19,3 +19,7 @@ The MEI is incredibly broad and topic modelling helped to describe it and uncove
 <img src="img/Context_topics.png">
 
                                                   Contextualised MEI
+
+<img src="img/Topic_trends.png">
+
+                                                MEI research trends M10
