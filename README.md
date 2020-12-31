@@ -7,4 +7,4 @@ After more than 30 years of conceptual work in trying to respond to the growing 
 # Objective
 This thesis presents an application where topic modelling (Machine Learning) is used to conduct an exploratory literature review with the aim of describing the MEI domain. Through the use of topic modelling, clear categories can be formed. Furthermore, the use of machine learning minimizes human biases and allows hidden or overlooked topics in this research field to be uncovered. Machine learning and topic modelling more specifically has not yet been used to obtain insights into academic marketing research or to uncover the MEI.
 
-<img src="https://github.com/Lan-Li-Jenny/UGent_Master_Thesis/tree/main/img/Venn_diagram.png">
+<img src="img/Venn_diagram.png">
